@@ -6,7 +6,8 @@ public class Restapi {
 		
 		int x =10;
 		int y =20;
-		int z = x + y;
+		int q =30;
+		int z = x + y + q;
 		System.out.println(z);
 	}
 
